@@ -13,7 +13,7 @@ class App extends React.Component{
 
 // eslint-disable-next-line
 // const based component:
-// const Apps = () => {
+// const App = () => {
 //     return (
 //         <div>
 //             We created another react component.
